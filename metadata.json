@@ -1,0 +1,5 @@
+{
+  "name": "DB PEEP",
+  "description": "A powerful search engine powered by the Gemini API with Google Search grounding. Made by PMB SIAM.",
+  "requestFramePermissions": []
+}
